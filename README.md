@@ -1,3 +1,3 @@
-# Prova.POO2
+# Simulado.POO
 
-Lucas de Souza Lima - CC4M
+Simulado de Programação Orientada a Objetos II por Lucas de Souza Lima.
