@@ -1,3 +1,3 @@
-# Simulado.POO
+# Prova.POO2
 
-Simulado de Programação Orientada a Objetos II por Lucas de Souza Lima.
+Prova de Programação Orientada a Objetos II por Lucas de Souza Lima.
